@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A command line app that acts as an Amazon storefront",
+  "main": "bamazoncustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewg23/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Matt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewg23/Bamazon/issues"
+  },
+  "homepage": "https://github.com/matthewg23/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.5.1",
+    "mysql": "^2.17.1"
+  }
+}
